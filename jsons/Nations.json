@@ -29,7 +29,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Empty",
+		"uniqueName": "Emptiness" 
+		"unique": "[+3 Gold,+3 Happiness] per [2] population in all cities",
 		"cities": ["Lorem","Ipsum","Dolor","Sit","Amet","Consectetur","Adepiscing","Elit","Duis",
 			"Tristique","Nisl","Ac","Dignissim","Donec","Facilisis","Ullamcorper","Ante","Ornare","Maecenas",
 			"Malesuada","Nisi","Urna","Pellentesque","Enim","Pretium","Maximus","Lectus","Risus","Vitae",
