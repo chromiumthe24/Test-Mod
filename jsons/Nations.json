@@ -2,7 +2,7 @@
 	{
 		"name": "Test Nation",
 		"leaderName": "Lorem",
-		"adjective": ["blank"],
+		"adjective": ["Blanks"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
