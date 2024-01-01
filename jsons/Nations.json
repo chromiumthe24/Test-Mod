@@ -24,8 +24,8 @@
 		"hateNo": ["screw you","hail to the no","no means no"],
 		"hateYes": ["whatever","fine","yeah sure"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "gg",
+		"tradeRequest": "trade",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
